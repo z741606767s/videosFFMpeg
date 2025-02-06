@@ -1,0 +1,9 @@
+moviepy==1.0.3
+decorator==4.4.2  # 关键调整项
+numpy==1.26.4
+tqdm==4.66.3
+imageio-ffmpeg==0.4.9
+proglog==0.1.10
+opencv-python-headless==4.8.1.78
+opencv-python~=4.11.0.86
+pyinstaller==6.11.1
